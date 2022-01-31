@@ -1,3 +1,3 @@
-# cmpe260-spotify
+# Spotify Recommender
 
-A song recommendation system in Prolog, using three main files as knowledge base: artists.pl, albums.pl, tracks.pl. These are collected with the help of Spotify API.
+A song recommendation system written in Prolog, using a subset of data collected with the Spotify API.
